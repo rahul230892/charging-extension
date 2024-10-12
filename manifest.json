@@ -1,0 +1,12 @@
+{
+    "manifest_version": 3,
+    "name": "Battery Status Extension",
+    "version": "1.0",
+    "description": "Shows battery charging status, remaining time, and charging rate",
+    "permissions": [],
+    "action": {
+      "default_popup": "popup.html",
+      "default_title": "Battery Status"
+    }
+  }
+  
